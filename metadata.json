@@ -1,0 +1,5 @@
+{
+  "name": "Münztracker",
+  "description": "Eine App zur Verfolgung Ihres Gold- und Silbermünzenportfolios. Verwalten Sie Ihren Bestand, verfolgen Sie Spotpreise und visualisieren Sie das Wachstum Ihres Portfolios.",
+  "requestFramePermissions": []
+}
